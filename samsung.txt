@@ -1,7 +1,6 @@
 config.samsungads.com
 gpm.samsungqbe.com
 log-config.samsungacr.com
-samsung.com
 samsungacr.com
 samsungads.com
 samsungcloudsolution.com
