@@ -75,6 +75,7 @@ r20---sn-5hne6n76.googlevideo.com
 ade.googlesyndication.com
 pagead.l.doubleclick.net
 r2---sn-aigl6n7z.googlevideo.com
+r3---sn-aigl6ney.googlevideo.com
 #r*---sn-********.googlevideo.com
 #
 # more
