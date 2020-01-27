@@ -68,6 +68,7 @@ r18---sn-5hne6nek.googlevideo.com
 r19---sn-4g57knkz.googlevideo.com
 r20---sn-4g57knde.googlevideo.com
 r20---sn-5hne6n76.googlevideo.com
+# Stripped from packet sniffing in Kibana 
 ade.googlesyndication.com
 pagead.l.doubleclick.net
 pagead.l.doubleclick.net
