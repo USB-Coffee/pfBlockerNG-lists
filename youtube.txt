@@ -1,3 +1,6 @@
+# Youtube Advertisements Regex
+# ^r[0123456789]+((-{3})|(.))sn-.{8}.googlevideo.com$
+#
 manifest.googlevideo.com
 r1---sn-4g57kn7d.googlevideo.com
 r1---sn-4g57knek.googlevideo.com
