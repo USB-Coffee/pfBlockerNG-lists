@@ -71,4 +71,3 @@ r20---sn-5hne6n76.googlevideo.com
 # Stripped from packet sniffing in Kibana 
 ade.googlesyndication.com
 pagead.l.doubleclick.net
-pagead.l.doubleclick.net
