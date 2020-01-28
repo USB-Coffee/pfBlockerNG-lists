@@ -1,3 +1,6 @@
+# Warning - currently breaks some apps
+#
+#
 config.samsungads.com
 gpm.samsungqbe.com
 log-config.samsungacr.com
