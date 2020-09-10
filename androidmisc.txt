@@ -1,2 +1,3 @@
 fw.adsafeprotected.com
 get-express-vpn.com
+ipinfo.io
