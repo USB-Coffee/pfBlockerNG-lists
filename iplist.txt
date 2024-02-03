@@ -1,0 +1,6 @@
+# Samsung Alerts
+# ET JA3 Hash - [Abuse.ch] Possible Adware
+# ET JA3 Hash - Possible Malware - Eitest Chrome Popup
+34.111.228.132 
+213.106.0.0/17
+169.50.0.0/15
